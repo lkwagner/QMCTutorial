@@ -1,0 +1,72 @@
+- {a: 1.0, basename: h101.0, double_occupancy: 0.2032828283, double_occupancy_err: 0.003250549635,
+  en: -2.799025896, en_err: 0.01985793718, ext: hf, method: vmc, n: 10, twf: afm,
+  variance: 0.5226136108375987, variance_err: 0.006699944085882118}
+- {a: 1.0, basename: h101.0, double_occupancy: 0.1977, double_occupancy_err: 0.00348742025,
+  en: -3.043740363, en_err: 0.01916772116, ext: opt, method: vmc, n: 10, twf: afm-j,
+  variance: 0.49962868750000006, variance_err: 0.006846026955204693}
+- {a: 1.0, basename: h101.0, double_occupancy: 0.209572107, double_occupancy_err: 0.001697066103,
+  en: -3.826403159, en_err: 0.009404133838, ext: dmc, method: dmc, n: 10, twf: afm-j,
+  variance: 0.5281478341789828, variance_err: 0.003123712766890255}
+- {a: 1.0, basename: h101.0, double_occupancy: 0.2248, double_occupancy_err: 0.003212413423,
+  en: -3.45955935, en_err: 0.01809533243, ext: hf, method: vmc, n: 10, twf: tb, variance: 0.5623987374999999,
+  variance_err: 0.006331770076179961}
+- {a: 1.0, basename: h101.0, double_occupancy: 0.21895, double_occupancy_err: 0.003696819579,
+  en: -4.029833854, en_err: 0.007285259755, ext: opt, method: vmc, n: 10, twf: tb-j,
+  variance: 0.55685987, variance_err: 0.006808329831400865}
+- {a: 1.0, basename: h101.0, double_occupancy: 0.2170292402, double_occupancy_err: 0.001194391794,
+  en: -4.118066722, en_err: 0.002158300962, ext: dmc, method: dmc, n: 10, twf: tb-j,
+  variance: 0.5510959157432702, variance_err: 0.0023267136624710054}
+- {a: 2.0, basename: h102.0, double_occupancy: 0.1397979798, double_occupancy_err: 0.002840808476,
+  en: -4.871589091, en_err: 0.007901201712, ext: hf, method: vmc, n: 10, twf: afm,
+  variance: 0.3245233904660156, variance_err: 0.0044905105753262654}
+- {a: 2.0, basename: h102.0, double_occupancy: 0.13375, double_occupancy_err: 0.002987787643,
+  en: -4.906134124, en_err: 0.01131006262, ext: opt, method: vmc, n: 10, twf: afm-j,
+  variance: 0.310978595, variance_err: 0.0045062847892069135}
+- {a: 2.0, basename: h102.0, double_occupancy: 0.1676839536, double_occupancy_err: 0.002632675916,
+  en: -5.446203405, en_err: 0.02284737671, ext: dmc, method: dmc, n: 10, twf: afm-j,
+  variance: 0.3840970537688101, variance_err: 0.006266933073407435}
+- {a: 2.0, basename: h102.0, double_occupancy: 0.22953125, double_occupancy_err: 0.004146486368,
+  en: -5.296200469, en_err: 0.008760841573, ext: hf, method: vmc, n: 10, twf: tb,
+  variance: 0.5460396647618626, variance_err: 0.007585463290443689}
+- {a: 2.0, basename: h102.0, double_occupancy: 0.2101515152, double_occupancy_err: 0.003253916624,
+  en: -5.523219215, en_err: 0.006179866941, ext: opt, method: vmc, n: 10, twf: tb-j,
+  variance: 0.537889536777915, variance_err: 0.006851381412480241}
+- {a: 2.0, basename: h102.0, double_occupancy: 0.2112066664, double_occupancy_err: 0.001698548815,
+  en: -5.635921855, en_err: 0.001765443674, ext: dmc, method: dmc, n: 10, twf: tb-j,
+  variance: 0.5411441704454234, variance_err: 0.0029509691214864484}
+- {a: 3.0, basename: h103.0, double_occupancy: 0.05780612245, double_occupancy_err: 0.002120959945,
+  en: -4.731506802, en_err: 0.009268203017, ext: hf, method: vmc, n: 10, twf: afm,
+  variance: 0.12309975791213396, variance_err: 0.0031810839382464488}
+- {a: 3.0, basename: h103.0, double_occupancy: 0.05595959596, double_occupancy_err: 0.001841429334,
+  en: -4.789095179, en_err: 0.007072005224, ext: opt, method: vmc, n: 10, twf: afm-j,
+  variance: 0.12125920824709534, variance_err: 0.003248033423027651}
+- {a: 3.0, basename: h103.0, double_occupancy: 0.07391845491, double_occupancy_err: 0.001319409537,
+  en: -4.966536328, en_err: 0.004629671832, ext: dmc, method: dmc, n: 10, twf: afm-j,
+  variance: 0.15490888663462238, variance_err: 0.0023945902671037417}
+- {a: 3.0, basename: h103.0, double_occupancy: 0.2352, double_occupancy_err: 0.007464891158,
+  en: -4.535692493, en_err: 0.01244401481, ext: hf, method: vmc, n: 10, twf: tb, variance: 0.5249419975,
+  variance_err: 0.011877180898849829}
+- {a: 3.0, basename: h103.0, double_occupancy: 0.20455, double_occupancy_err: 0.005413914942,
+  en: -4.924514397, en_err: 0.007621168225, ext: opt, method: vmc, n: 10, twf: tb-j,
+  variance: 0.5282115000000001, variance_err: 0.010493223714655185}
+- {a: 3.0, basename: h103.0, double_occupancy: 0.1790449588, double_occupancy_err: 0.001937387123,
+  en: -5.17363304, en_err: 0.00378720299, ext: dmc, method: dmc, n: 10, twf: tb-j,
+  variance: 0.5277961414335713, variance_err: 0.0031975190864768064}
+- {a: 4.0, basename: h104.0, double_occupancy: 0.0174742268, double_occupancy_err: 0.001074154853,
+  en: -4.70688932, en_err: 0.008573456057, ext: hf, method: vmc, n: 10, twf: afm,
+  variance: 0.03488844457381836, variance_err: 0.0014649929582888279}
+- {a: 4.0, basename: h104.0, double_occupancy: 0.02106060606, double_occupancy_err: 0.001290149963,
+  en: -4.78400345, en_err: 0.004991844865, ext: opt, method: vmc, n: 10, twf: afm-j,
+  variance: 0.04216555197990102, variance_err: 0.0025560403635174218}
+- {a: 4.0, basename: h104.0, double_occupancy: 0.0221494706, double_occupancy_err: 0.0005008984855,
+  en: -4.841739932, en_err: 0.002815785773, ext: dmc, method: dmc, n: 10, twf: afm-j,
+  variance: 0.04719857100296655, variance_err: 0.001000095339850243}
+- {a: 4.0, basename: h104.0, double_occupancy: 0.2397395833, double_occupancy_err: 0.01372262304,
+  en: -3.843107262, en_err: 0.01803530498, ext: hf, method: vmc, n: 10, twf: tb, variance: 0.5079527859167897,
+  variance_err: 0.021091610169517192}
+- {a: 4.0, basename: h104.0, double_occupancy: 0.2129292929, double_occupancy_err: 0.01013705943,
+  en: -4.370208009, en_err: 0.01015252982, ext: opt, method: vmc, n: 10, twf: tb-j,
+  variance: 0.5097927507392206, variance_err: 0.015482373088909677}
+- {a: 4.0, basename: h104.0, double_occupancy: 0.1246597191, double_occupancy_err: 0.002353650001,
+  en: -4.892867192, en_err: 0.01074790356, ext: dmc, method: dmc, n: 10, twf: tb-j,
+  variance: 0.513234720292156, variance_err: 0.0029031334854507534}
