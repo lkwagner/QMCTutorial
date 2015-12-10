@@ -41,7 +41,7 @@ For the hydrogen chain, if we do not include dimerization, it will become metall
 We are going to do a simulation of a linear chain of hydrogen atoms. 
 The Hamiltonian is:
 \begin{equation}
-\hat{H}=-\frac{1}{2}\sum_i \nabla_i^2 + \sum_{\vec{L_i}}^\infty\sum_i V(r_i) + \sum_{\vec{L_i},\vec{L_j} }^\infty \sum_{ij} \frac{1}{\|vec{r}_i+\vec{L_i}-\vec{r_j}-\vec{L_j}|},
+\hat{H}=-\frac{1}{2}\sum_i \nabla_i^2 + \sum_{\vec{L}_i}^\infty\sum_i V(r_i+\vec{L}_i) + \sum_{\vec{L_i},\vec{L_j} }^\infty \sum_{ij} \frac{1}{|\vec{r}_i+\vec{L}_i-\vec{r_j}-\vec{L}_j|},
 \end{equation}
 where i,j refer to electron indices, $\vec{L}$ is summed over all periodic cells, and $V$ is the one-particle potential we will define a little later.
 Units here and throughout this example are in {\it atomic units}, where $m_e=1,\hbar=1,e/4\pi\epsilon_0=1$.
